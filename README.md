@@ -25,7 +25,7 @@ VIDEO / AUDIO EDITOR
  <div>
   <a href="https://github.com/NICKINFORMATICARESERVA">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICKINFORMATICARESERVA&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICKINFORMATICAA&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 *Please write to me in English or Brazilian Portuguese. These are the two languages ​​I know how to speak*
